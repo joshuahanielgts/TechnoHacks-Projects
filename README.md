@@ -66,3 +66,6 @@ No additional installations are required since all dependencies are handled with
 - Huge thanks to my **Mentor Sandip Gavit** for your continued support and guidance throughout these projects.
 
 ---
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
